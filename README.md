@@ -16,6 +16,7 @@
 - oast.online
 - oast.fun
 - oast.me
+- dig.pm
 
 ## 02-漏洞扫描类
 
