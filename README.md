@@ -17,6 +17,14 @@
 - oast.fun
 - oast.me
 - dig.pm
+- dnsbin.zhack.ca
+- requestbin.com
+- httpbin.org
+- hookbin.com
+- webhook.site
+- smee.io
+- ngrok.com
+- localtunnel.me
 
 ## 02-漏洞扫描类
 
