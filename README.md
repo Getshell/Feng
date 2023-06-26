@@ -16,6 +16,7 @@
 - oast.online
 - oast.fun
 - oast.me
+- oastify.com
 - dig.pm
 - dnsbin.zhack.ca
 - requestbin.com
