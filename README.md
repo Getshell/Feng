@@ -26,6 +26,7 @@
 - smee.io
 - ngrok.com
 - localtunnel.me
+- canarytokens.org
 
 ## 02-漏洞扫描类
 
